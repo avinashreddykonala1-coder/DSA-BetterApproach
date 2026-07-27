@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
