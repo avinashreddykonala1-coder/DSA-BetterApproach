@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
