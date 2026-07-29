@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
 ## String
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
