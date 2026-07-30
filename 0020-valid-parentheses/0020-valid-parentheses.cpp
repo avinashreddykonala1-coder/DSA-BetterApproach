@@ -1,29 +1,23 @@
-#include <stack>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
 
-        for(char c : s){
-            if(c =='(' || c == '{' || c == '['){
-                st.push(c);
+        for(auto a : s){
+            if(a == '(' || a == '[' || a == '{'){
+                st.push(a);
             }
             else{
                 if(st.empty()){
                     return false;
                 }
-
-                char top = st.top();
+                int topVal = st.top();
                 st.pop();
-                if((c == ')' && top != '(') || (c == '}' && top != '{') || (c == ']' && top != '[')){
+                if((a == ')' && topVal != '(') || (a == ']' && topVal != '[') || (a == '}' && topVal != '{')){
                     return false;
                 }
             }
         }
-
         return st.empty();
     }
 };
