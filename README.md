@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0215-kth-largest-element-in-an-array) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
